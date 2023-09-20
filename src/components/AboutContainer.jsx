@@ -4,7 +4,7 @@ const AboutContainer = () => {
       <h2>About me</h2>
       <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, dolores!
-        Repellendus eius consequuntur, voluptate deserunt perferendis mollitia
+        Repellend eius consequuntur, voluptate deserunt perferendis mollitia
         debitis est autem aperiam necessitatibus beatae assumenda illo rem
         architecto quis dolor quae.
       </p>
