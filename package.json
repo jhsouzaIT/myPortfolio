@@ -1,9 +1,10 @@
 {
+  "homepage": "https://jhsouzait.github.io/myPortfolio",
   "name": "portifolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jhsouzait.github.io/Portfolio/",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
